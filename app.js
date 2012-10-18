@@ -1,3 +1,5 @@
 #!/usr/bin/env node
 
-console.log('Hi!');
+var md = require('ghm').parse;
+
+console.log(md('hi'));

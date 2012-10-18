@@ -12,5 +12,8 @@
 	"license": "BSD",
 	"bin": {
 		"rdown": "app.js"
+	},
+	"dependencies": {
+		"ghm": "*"
 	}
 }
