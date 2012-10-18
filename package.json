@@ -11,6 +11,6 @@
 	"author": "Ross Hadden",
 	"license": "BSD",
 	"bin": {
-		"watchjs": "app.js"
+		"rdown": "app.js"
 	}
 }
