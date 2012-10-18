@@ -1,5 +1,5 @@
 {
-	"name": "rossdown",
+	"name": "rdown",
 	"version": "0.0.0",
 	"description": "Generate Ross-flavored markdown.",
 	"main": "app.js",
@@ -7,7 +7,7 @@
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"repository": "",
-	"keywords": ["markdown", "ross", "rossdown"],
+	"keywords": ["markdown", "rdown", "rossdown"],
 	"author": "Ross Hadden",
 	"license": "BSD",
 	"bin": {
