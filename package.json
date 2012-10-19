@@ -1,6 +1,6 @@
 {
 	"name": "rdown",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"description": "Generate Ross-flavored markdown.",
 	"main": "app.js",
 	"scripts": {
@@ -14,6 +14,7 @@
 		"rdown": "app.js"
 	},
 	"dependencies": {
-		"ghm": "*"
+		"ghm": "*",
+		"commander": ">= 1"
 	}
 }
