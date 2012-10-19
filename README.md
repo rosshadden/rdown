@@ -1,4 +1,8 @@
-Node.js binary that parses an input markdown file and generates an output HTML file.
+R-down
+======
+
+A node.js binary that parses an input markdown file and generates an output HTML file.
+--------------------------------------------------------------------------------------
 
 Currently the markdown is just github-flavored markdown, though I plan on adding some useful additions such as partials, iterators, and math.
 
